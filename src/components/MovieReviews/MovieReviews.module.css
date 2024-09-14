@@ -1,0 +1,12 @@
+.reviewsContainer {
+  padding: 20px;
+}
+
+.reviewsList {
+  list-style: none;
+  padding: 0;
+}
+
+.reviewsList li {
+  margin-bottom: 20px;
+}
