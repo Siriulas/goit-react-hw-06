@@ -4,7 +4,7 @@ import ContactForm from "./ContactsForm";
 import SearchBox from "./SearcBox";
 
 
-export default function App(){
+export function App(){
 
     return (
         <div>
